@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=w
+comment0.target=Wierzcholek(int)
+comment1.params=
+comment1.target=int\ getWartosc()
+comment2.params=w
+comment2.target=void\ serWartosc(int)
+comment3.params=
+comment3.target=boolean\ getCzyOdwiedzony()
+comment4.params=
+comment4.target=java.lang.String\ getKolor()
+numComments=5

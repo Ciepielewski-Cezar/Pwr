@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=v
+comment0.target=Element(int)
+comment1.params=v\ p
+comment1.target=Element(int,\ Element)
+comment2.params=
+comment2.target=int\ getValue()
+comment3.params=
+comment3.target=Element\ getParent()
+comment4.params=v
+comment4.target=void\ setValue(int)
+comment5.params=p
+comment5.target=void\ setParent(Element)
+numComments=6

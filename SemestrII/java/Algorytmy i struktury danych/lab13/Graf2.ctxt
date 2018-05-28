@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=wierzcholki
+comment0.target=Graf2(int)
+comment1.params=a\ b
+comment1.target=void\ addKrawedz(int,\ int)
+comment2.params=
+comment2.target=int\ getKrawedzie()
+comment3.params=
+comment3.target=int\ getWierzcholki()
+numComments=4

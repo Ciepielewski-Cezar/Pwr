@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=ciag
+comment0.target=QuickSort(int[])
+comment1.params=
+comment1.target=int[]\ sortuj()
+comment2.params=poczatek\ koniec
+comment2.target=void\ quickSort(int,\ int)
+comment3.params=
+comment3.target=void\ wyswietl()
+comment4.params=
+comment4.target=int\ getPorownania()
+comment5.params=
+comment5.target=int\ getPrzepisania()
+numComments=6

@@ -1,0 +1,4 @@
+﻿  Źródło.cpp
+Ćrˇd│o.obj : error LNK2019: nierozpoznany zewnŕtrzny symbol "void __cdecl usunDynamiczna(int *,int *,int &,int *)" (?usunDynamiczna@@YAXPEAH0AEAH0@Z) przywo│any w funkcji main
+Ćrˇd│o.obj : error LNK2019: nierozpoznany zewnŕtrzny symbol "void __cdecl zainicjujWektor(int &,int *,int *,int *,int,int)" (?zainicjujWektor@@YAXAEAHPEAH11HH@Z) przywo│any w funkcji main
+E:\programy na zajŕcia\Semestr 3\ZMPO\lab1\Lista1\x64\Debug\Lista1.exe : fatal error LNK1120: liczba nierozpoznanych elementˇw zewnŕtrznych: 2

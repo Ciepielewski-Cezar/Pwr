@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ first()
+comment1.params=
+comment1.target=void\ last()
+comment2.params=
+comment2.target=void\ next()
+comment3.params=
+comment3.target=void\ previous()
+comment4.params=
+comment4.target=boolean\ isDone()
+comment5.params=
+comment5.target=java.lang.Object\ current()
+numComments=6

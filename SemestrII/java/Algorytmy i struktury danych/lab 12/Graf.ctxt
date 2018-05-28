@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=void\ makeSet(Element)
+comment1.params=x\ y
+comment1.target=void\ union(Element,\ Element)
+comment2.params=x\ y
+comment2.target=void\ link(Element,\ Element)
+comment3.params=x
+comment3.target=Element\ find(Element)
+comment4.params=x
+comment4.target=void\ wyswietl(Element)
+numComments=5

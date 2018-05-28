@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=i\ predykat
+comment0.target=IteratorFiltrujacy(Iterator,\ Predicate)
+comment1.params=
+comment1.target=void\ filtrujDoPrzodu()
+comment2.params=
+comment2.target=void\ filtrujDoTylu()
+comment3.params=
+comment3.target=void\ first()
+comment4.params=
+comment4.target=void\ last()
+comment5.params=
+comment5.target=void\ next()
+comment6.params=
+comment6.target=void\ previous()
+comment7.params=
+comment7.target=boolean\ isDone()
+comment8.params=
+comment8.target=java.lang.Object\ current()
+numComments=9

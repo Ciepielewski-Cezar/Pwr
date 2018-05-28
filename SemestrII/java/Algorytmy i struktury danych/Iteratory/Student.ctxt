@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=i\ n\ in\ o
+comment0.target=Student(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.params=
+comment1.target=int\ getIndeks()
+comment2.params=x
+comment2.target=void\ setOcena(int)
+comment3.params=
+comment3.target=int\ getOcena()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

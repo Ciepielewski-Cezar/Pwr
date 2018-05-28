@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tablica()
+comment1.params=
+comment1.target=void\ wyswietl()
+comment2.params=naz\ c
+comment2.target=void\ zmianaC(java.lang.String,\ java.lang.Double)
+comment3.params=
+comment3.target=void\ filtr()
+comment4.params=
+comment4.target=void\ powyzej()
+numComments=5

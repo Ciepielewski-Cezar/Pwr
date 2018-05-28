@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=ciag
+comment0.target=InsertSort(int[])
+comment1.params=
+comment1.target=int[]\ sortuj()
+comment2.params=
+comment2.target=void\ wyswietl()
+comment3.params=
+comment3.target=int\ getPorownania()
+comment4.params=
+comment4.target=int\ getPrzepisania()
+numComments=5

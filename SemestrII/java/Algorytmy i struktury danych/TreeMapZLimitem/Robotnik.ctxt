@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=nazwisko\ etat\ przepGodz\ stawkaGodz\ nadgodziny
+comment0.target=Robotnik(java.lang.String,\ double,\ double,\ double,\ double)
+comment1.params=
+comment1.target=double\ getWyplata()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

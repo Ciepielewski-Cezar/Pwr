@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=w
+comment0.target=AlgorytmBFS(int)
+comment1.params=a\ b
+comment1.target=void\ addEdge(int,\ int)
+comment2.params=w
+comment2.target=void\ wykonajBFS(int)
+numComments=3

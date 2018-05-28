@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=TAB
+comment0.target=ArrayIterator(java.lang.Object[])
+comment1.params=
+comment1.target=void\ first()
+comment2.params=
+comment2.target=void\ last()
+comment3.params=
+comment3.target=void\ next()
+comment4.params=
+comment4.target=void\ previous()
+comment5.params=
+comment5.target=boolean\ isDone()
+comment6.params=
+comment6.target=java.lang.Object\ current()
+numComments=7

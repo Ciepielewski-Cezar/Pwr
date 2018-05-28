@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=value
+comment0.target=Wezel(int)
+comment0.text=\r\n\ \ \ \ public\ Wezel(int\ value,\ Wezel\ left,\ Wezel\ right){\r\n\ \ \ \ \ \ \ \ this.value\ \=\ value;\r\n\ \ \ \ \ \ \ \ this.left\ \=\ left;\r\n\ \ \ \ \ \ \ \ this.right\ \=\ right;\r\n\ \ \ \ }\r\n
+numComments=1

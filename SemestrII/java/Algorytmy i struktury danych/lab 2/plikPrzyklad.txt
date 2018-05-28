@@ -1,0 +1,5 @@
+nazwa ilosc cena wartosc
+drukarka 3 600 1800
+komputer 1 2500 2500
+monitor 1 750 750
+glosniki 4 50 200

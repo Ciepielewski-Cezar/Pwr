@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=n\ i\ c\ w
+comment0.target=Towar(java.lang.String,\ double,\ double,\ double)
+comment1.params=
+comment1.target=java.lang.String\ getNazwa()
+comment2.params=
+comment2.target=double\ getWartosc()
+comment3.params=c
+comment3.target=void\ setWartosc(double)
+comment4.params=
+comment4.target=double\ getIlosc()
+comment5.params=
+comment5.target=double\ getCena()
+comment6.params=c
+comment6.target=void\ setCena(double)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

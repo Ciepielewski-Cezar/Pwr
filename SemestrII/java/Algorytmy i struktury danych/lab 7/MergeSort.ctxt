@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=ciag
+comment0.target=MergeSort(int[])
+comment1.params=
+comment1.target=int[]\ sortuj()
+comment2.params=pocz\ kon
+comment2.target=void\ mergeSort(int,\ int)
+comment3.params=poczatek\ srodek\ koniec
+comment3.target=void\ merge(int,\ int,\ int)
+comment4.params=
+comment4.target=void\ wyswietl()
+comment5.params=
+comment5.target=int\ getPorownania()
+comment6.params=
+comment6.target=int\ getPrzepisania()
+numComments=7

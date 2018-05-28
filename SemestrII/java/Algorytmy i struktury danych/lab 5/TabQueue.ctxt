@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=sizeP
+comment0.target=TabQueue(int)
+comment1.params=value
+comment1.target=void\ enqueue(java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ dequeue()
+comment3.params=
+comment3.target=void\ clear()
+comment4.params=
+comment4.target=int\ size()
+comment5.params=
+comment5.target=boolean\ isEmpty()
+comment6.params=indeks
+comment6.target=void\ FullQueueException(int)
+comment7.params=indeks
+comment7.target=void\ EmptyQueueException(int)
+comment8.params=
+comment8.target=void\ wyswietl()
+numComments=9

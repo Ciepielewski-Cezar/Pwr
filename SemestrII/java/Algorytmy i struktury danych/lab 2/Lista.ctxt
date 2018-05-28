@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ wczytaj()
+comment1.params=n\ c
+comment1.target=void\ zmianaCeny(java.lang.String,\ double)
+comment2.params=
+comment2.target=void\ wyswietl()
+comment3.params=i
+comment3.target=void\ wyswietlPara(double)
+comment4.params=
+comment4.target=void\ wartosc()
+comment5.params=
+comment5.target=void\ zapisz()
+numComments=6

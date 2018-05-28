@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=nazwisko\ etat
+comment0.target=Pracownik(java.lang.String,\ double)
+comment1.params=
+comment1.target=java.lang.String\ getNazwisko()
+comment2.params=
+comment2.target=double\ getEtat()
+comment3.params=prac
+comment3.target=int\ compareTo(Pracownik)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=double\ getWyplata()
+numComments=6

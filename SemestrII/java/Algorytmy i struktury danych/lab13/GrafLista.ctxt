@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=iloscWierzcholkow
+comment0.target=GrafLista(int)
+comment1.params=a\ b
+comment1.target=void\ add(int,\ int)
+comment2.params=
+comment2.target=void\ wyswietl()
+comment3.params=
+comment3.target=void\ wyswietlPolaczenia()
+numComments=4

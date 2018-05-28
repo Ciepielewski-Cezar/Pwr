@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=value
+comment0.target=void\ enqueue(java.lang.Object)
+comment1.params=
+comment1.target=java.lang.Object\ dequeue()
+comment2.params=
+comment2.target=void\ clear()
+comment3.params=
+comment3.target=int\ size()
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment5.params=index
+comment5.target=ListaQueue.Element\ whereIs(int)
+comment6.params=
+comment6.target=void\ wyswietl()
+numComments=7

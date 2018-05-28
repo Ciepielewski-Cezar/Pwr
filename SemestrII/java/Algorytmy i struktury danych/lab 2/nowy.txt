@@ -1,0 +1,4 @@
+drukarka 3.0 600.0 1800.0
+komputer 1.0 8000.0 8000.0
+monitor 1.0 750.0 750.0
+glosniki 4.0 50.0 200.0

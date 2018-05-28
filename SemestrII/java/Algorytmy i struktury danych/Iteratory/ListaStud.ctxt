@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ wyswietl()
+comment1.params=nr\ ocena
+comment1.target=void\ wypiszO(int,\ int)
+comment2.params=
+comment2.target=double\ srednia()
+comment3.params=
+comment3.target=void\ dobra()
+numComments=4

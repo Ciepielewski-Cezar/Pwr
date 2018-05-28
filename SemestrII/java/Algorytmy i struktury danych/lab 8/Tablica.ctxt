@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=rozmiar\ zakres
+comment0.target=Tablica(int,\ int)
+comment1.params=
+comment1.target=void\ wypelnij()
+comment2.params=x
+comment2.target=int\ liniowe(int)
+comment3.params=x
+comment3.target=int\ binarne(int)
+comment4.params=x
+comment4.target=int\ binarne2(int)
+comment5.params=
+comment5.target=void\ shell()
+comment6.params=
+comment6.target=void\ wyswietl()
+numComments=7

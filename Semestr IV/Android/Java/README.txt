@@ -1,0 +1,1 @@
+Prosta apka wykorzystuj¹ca sensor do wykrywania metali

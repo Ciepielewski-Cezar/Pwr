@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=comparator
+comment0.target=void\ addComparator(Comparator)
+comment1.params=left\ right
+comment1.target=int\ compare(java.lang.Object,\ java.lang.Object)
+numComments=2

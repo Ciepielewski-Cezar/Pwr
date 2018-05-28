@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=tab\ odElem\ liczbaElem
+comment0.target=IteratorTablicowy(java.lang.Object[],\ int,\ int)
+comment1.params=tab
+comment1.target=IteratorTablicowy(java.lang.Object[])
+comment2.params=
+comment2.target=void\ first()
+comment3.params=
+comment3.target=void\ last()
+comment4.params=
+comment4.target=void\ next()
+comment5.params=
+comment5.target=void\ previous()
+comment6.params=
+comment6.target=boolean\ isDone()
+comment7.params=
+comment7.target=java.lang.Object\ current()
+numComments=8

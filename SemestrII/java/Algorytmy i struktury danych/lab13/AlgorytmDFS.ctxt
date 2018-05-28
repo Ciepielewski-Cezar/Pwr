@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=w
+comment0.target=AlgorytmDFS(int)
+comment1.params=a\ b
+comment1.target=void\ addEdge(int,\ int)
+comment2.params=w\ odwiedzone
+comment2.target=void\ wykonajDFS(int,\ boolean[])
+comment3.params=w
+comment3.target=void\ DFS(int)
+numComments=4
